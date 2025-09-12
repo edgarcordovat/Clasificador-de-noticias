@@ -1,4 +1,4 @@
-# Clasificador de noticias
+# Clasificación de noticias en español utilizando técnicas de aprendizaje profundo
 
 Descripción
 
